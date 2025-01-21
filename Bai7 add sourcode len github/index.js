@@ -2,6 +2,9 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+
+app.use(morgan('combined'))
+
 app.get('/tin-tuc', (req, res) => {
   var a = 1;
   var b = 2;
