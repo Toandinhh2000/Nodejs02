@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "bai11-tich-hop-bootstrap-vao-du-an",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toandinhh2000/Nodejs02.git"
+  },
+  "keywords": [
+    "toan",
+    "dinh",
+    "nodejs"
+  ],
+  "author": "toandx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toandinhh2000/Nodejs02/issues"
+  },
+  "homepage": "https://github.com/Toandinhh2000/Nodejs02#readme",
+  "description": ""
+}
